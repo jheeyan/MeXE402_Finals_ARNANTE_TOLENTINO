@@ -1,5 +1,5 @@
 # MeXE402_Finals_ARNANTE_TOLENTINO
-This is our  Finals Activity for Electives 2 - Machine Learning using Computer Vision for "Facial Detection of Ben&Ben Band Members".
+This is our  Finals Activity for Electives 2 - Machine Learning using Computer Vision for **"Facial Detection of Ben&Ben Band Members"**.
 
 ## **Introduction**
 
