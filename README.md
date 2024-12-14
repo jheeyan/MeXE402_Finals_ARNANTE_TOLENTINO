@@ -16,16 +16,21 @@ The expexted result of this final activity is to create a reliable system for fa
 ## **Project Methods**
 ****1. Pre-Procesing****
 First, we will choose images that show real people with faces usually a group of people and in this case we will feature the band "Ben & Ben". The main artists of ben & ben are Benjamin and Benjamin. 
-
+<p align="center">
+  
 ![ben ben1](https://github.com/user-attachments/assets/900627f7-b6f5-418e-a746-1abeafa942a3)
 ![ben ben2](https://github.com/user-attachments/assets/0cc2a93f-3471-4e2e-a6ad-7409aaab2564)
 ![ben ben3](https://github.com/user-attachments/assets/8a332c47-e937-4319-a1e4-5c04605e1740)
 ![ben ben4](https://github.com/user-attachments/assets/fc60f79e-1aed-41a0-9c39-8f63e96e8e1b)
 ![ben ben5](https://github.com/user-attachments/assets/52587110-058d-48b0-8d6f-e8d01312bc02)
 
-These images were sourced from online and if there is a need for more pictures, it can be easily done so. Selecting these images are done with this line of code.
-<img width="788" alt="select image" src="https://github.com/user-attachments/assets/6aa625f0-7cdc-4a2a-8c4d-27888dd1cbfa" />
 
+</p>
+
+These images were sourced from online and if there is a need for more pictures, it can be easily done so. Selecting these images are done with this line of code.
+<p align="center">
+<img width="788" alt="select image" src="https://github.com/user-attachments/assets/6aa625f0-7cdc-4a2a-8c4d-27888dd1cbfa" />
+</p>
 
 ****2. Face Detection Algorithm**** 
 ****HAAR Cascade**** - are classifiers based on Haar-like features and are widely used for face detection. It uses a series of features similar to wavelet transforms, representing differences in intensity values across rectangular regions of an image. These features are used to identify parts of the image that may correspond to an object 
@@ -33,15 +38,20 @@ These images were sourced from online and if there is a need for more pictures, 
 ****LBP Cascade (Local Binary Patterns)**** -  is a texture descriptor that can be used for face detection and other image classification tasks. LBP works by comparing pixel intensities in a local neighborhood to form a binary pattern, which captures texture information.
 
 Both techniques are widely used but have their specific strengths and limitations depending on the requirements of the face detection application. This can be selected with this line of code.
+
+
+<p align="center">
 <img width="739" alt="classifier" src="https://github.com/user-attachments/assets/80652c7d-346b-44d9-bad6-1411316e8e55" />
-
-****Post-processing****
+</p>
+****3. Post-processing****
 After the image has been selected and a proper classifier has been selected we can proceed to executing its intended code and highlighting whether it has detected a face. We have chosen to use yellow rectangles to highlight faces of the band Ben & Ben. 
+<p align="center>
 <img width="742" alt="selector" src="https://github.com/user-attachments/assets/3a221c70-8ae9-4e2a-a0ff-8581619ef67e" />
-
+</p>
 If ran successfuly, we will see this image or something similar of your selected image. 
+<p align="center">
 <img width="953" alt="faces" src="https://github.com/user-attachments/assets/43081e3a-f280-45f1-94b8-6a42067535ba" />
-
+</p>
 
 ## **Other Results**
 The following results compare Haar cascade (Left) vs LBP Cascade (Right)
