@@ -32,12 +32,14 @@ These images were sourced from online and if there is a need for more pictures, 
 <img width="788" alt="select image" src="https://github.com/user-attachments/assets/6aa625f0-7cdc-4a2a-8c4d-27888dd1cbfa" />
 </p>
 
-+ ****Face Detection Algorithm**** 
-****HAAR Cascade**** - are classifiers based on Haar-like features and are widely used for face detection. It uses a series of features similar to wavelet transforms, representing differences in intensity values across rectangular regions of an image. These features are used to identify parts of the image that may correspond to an object 
++ ****Face Detection Algorithm****
 
-****LBP Cascade (Local Binary Patterns)**** -  is a texture descriptor that can be used for face detection and other image classification tasks. LBP works by comparing pixel intensities in a local neighborhood to form a binary pattern, which captures texture information.
+  
+    ****HAAR Cascade**** - are classifiers based on Haar-like features and are widely used for face detection. It uses a         series of features similar to wavelet transforms, representing differences in intensity values across rectangular            regions of an image. These features are used to identify parts of the image that may correspond to an object 
 
-Both techniques are widely used but have their specific strengths and limitations depending on the requirements of the face detection application. This can be selected with this line of code.
+    ****LBP Cascade (Local Binary Patterns)**** -  is a texture descriptor that can be used for face detection and other         image classification tasks. LBP works by comparing pixel intensities in a local neighborhood to form a binary pattern,       which captures texture information.
+
+    Both techniques are widely used but have their specific strengths and limitations depending on the requirements of the       face detection application. This can be selected with this line of code.
 
 
 <p align="center">
