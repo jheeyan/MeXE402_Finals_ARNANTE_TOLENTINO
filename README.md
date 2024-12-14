@@ -14,7 +14,7 @@ The methodology of this Final Activity is to gather images if the Ben&Ben group 
 The expexted result of this final activity is to create a reliable system for facial detection and compare the two classifier based on performance of facial recognition and evaluate which algorithm is more suited for our context.
 
 ## **Project Methods**
-#****1. Pre-Procesing****
+# ****1. Pre-Procesing****
 First, we will choose images that show real people with faces usually a group of people and in this case we will feature the band "Ben & Ben". The main artists of ben & ben are Benjamin and Benjamin. 
 <p align="center">
   
@@ -32,7 +32,7 @@ These images were sourced from online and if there is a need for more pictures, 
 <img width="788" alt="select image" src="https://github.com/user-attachments/assets/6aa625f0-7cdc-4a2a-8c4d-27888dd1cbfa" />
 </p>
 
-#****2. Face Detection Algorithm**** 
+# ****2. Face Detection Algorithm**** 
 ****HAAR Cascade**** - are classifiers based on Haar-like features and are widely used for face detection. It uses a series of features similar to wavelet transforms, representing differences in intensity values across rectangular regions of an image. These features are used to identify parts of the image that may correspond to an object 
 
 ****LBP Cascade (Local Binary Patterns)**** -  is a texture descriptor that can be used for face detection and other image classification tasks. LBP works by comparing pixel intensities in a local neighborhood to form a binary pattern, which captures texture information.
@@ -44,7 +44,7 @@ Both techniques are widely used but have their specific strengths and limitation
 <img width="739" alt="classifier" src="https://github.com/user-attachments/assets/80652c7d-346b-44d9-bad6-1411316e8e55" />
 </p>
 
-#****3. Post-processing****
+# ****3. Post-processing****
 After the image has been selected and a proper classifier has been selected we can proceed to executing its intended code and highlighting whether it has detected a face. We have chosen to use yellow rectangles to highlight faces of the band Ben & Ben. 
 <p align="center>
 <img width="742" alt="selector" src="https://github.com/user-attachments/assets/3a221c70-8ae9-4e2a-a0ff-8581619ef67e" />
