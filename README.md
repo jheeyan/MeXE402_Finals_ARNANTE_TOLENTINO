@@ -1,4 +1,4 @@
-<img width="739" alt="classifier" src="https://github.com/user-attachments/assets/658c9fb4-4542-455d-a99b-9eac7f273b51" /># MeXE402_Finals_ARNANTE_TOLENTINO
+# MeXE402_Finals_ARNANTE_TOLENTINO
 This is our  Finals Activity for Electives 2 - Machine Learning using Computer Vision for **"Facial Detection of Ben&Ben Band Members"**.
 
 ## **Introduction**
