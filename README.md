@@ -11,7 +11,7 @@ This project, titled "**Facial Detection of Ben&Ben Band Members**", focuses on 
 
 The methodology of this Final Activity is to gather images if the Ben&Ben group photos under different conditions i.e. lighting, facial expression, and facial  orientation. The facial detection process utilizes the **Haar** and **LBP Cascade Classifier** algorithm to detect faces in images, identify its location on the image and comparison of the two algorithms. 
 
-The expexted result of this final activity is to create a reliable system for facial detection and compare the two classifier based on performance of facial recognition. **(padagdag ako dito bien)**
+The expexted result of this final activity is to create a reliable system for facial detection and compare the two classifier based on performance of facial recognition and evaluate which algorithm is more suited for our context.
 
 ## **Project Methods**
 ****1. Pre-Procesing****
