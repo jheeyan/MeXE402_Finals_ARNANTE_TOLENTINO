@@ -47,11 +47,14 @@ These images were sourced from online and if there is a need for more pictures, 
 </p>
 
 + ****Post-processing****
-After the image has been selected and a proper classifier has been selected we can proceed to executing its intended code and highlighting whether it has detected a face. We have chosen to use yellow rectangles to highlight faces of the band Ben & Ben. 
-<p align="center>
-<img width="742" alt="selector" src="https://github.com/user-attachments/assets/3a221c70-8ae9-4e2a-a0ff-8581619ef67e" />
+After the image has been selected and a proper classifier has been selected we can proceed to executing its intended code and highlighting whether it has detected a face. We have chosen to use yellow rectangles to highlight faces of the band Ben & Ben.
+
+<p align="center">
+<img width="742" alt="selector" src="https://github.com/user-attachments/assets/ab8c9d17-d676-48f4-aaa7-df99c7bea8e1" />
 </p>
+
 If ran successfuly, we will see this image or something similar of your selected image. 
+
 <p align="center">
 <img width="953" alt="faces" src="https://github.com/user-attachments/assets/43081e3a-f280-45f1-94b8-6a42067535ba" />
 </p>
